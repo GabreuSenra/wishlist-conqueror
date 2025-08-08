@@ -1,73 +1,86 @@
-# Welcome to your Lovable project
+# Pro Game Marketing - Steam Marketing Masterclass Landing Page
 
-## Project info
+## 🚀 O que é essa landing page?
 
-**URL**: https://lovable.dev/projects/bf480ba0-9d96-4cdc-945a-7816eb8c1857
+Esta landing page foi criada como um exemplo prático de como construir uma página de captura de alta conversão para um produto digital. O **Wishlist & Visibility
+Masterclass** é o produto escolhido para ilustrar os princípios de marketing e visibilidade para jogos indie no Steam. O foco principal desta página é atrair desenvolvedores de jogos que buscam aumentar a visibilidade de seus jogos e melhorar seus números de wishlist na plataforma Steam.
 
-## How can I edit this code?
+A landing page segue uma estrutura comprovada de conversão, incluindo elementos como títulos chamativos, depoimentos, provas sociais, chamadas para ação (CTAs) claras e uma oferta irresistível. O objetivo é maximizar a eficácia da página na conversão de visitantes em leads (wishlisters) e clientes.
 
-There are several ways of editing your application.
+### 🔑 Pilares da Landing Page:
+1. **Visibilidade e Otimização**: Como usar a otimização de páginas Steam para gerar wishlists de forma consistente.
+2. **Prova Social**: Depoimentos e casos de sucesso de alunos que já aplicaram as estratégias ensinadas no curso.
+3. **Chamada para Ação (CTA)**: Incentivar a ação com um botão visível e uma garantia de devolução de dinheiro para diminuir a resistência do usuário.
+4. **Segmentação de Público**: Focar em desenvolvedores de jogos indie no Steam que buscam aumentar a visibilidade de seus projetos.
 
-**Use Lovable**
+## 📝 Estrutura da Página
+A landing page foi dividida nas seguintes seções principais:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/bf480ba0-9d96-4cdc-945a-7816eb8c1857) and start prompting.
+1. **Introdução**: Apresentação da promessa de resultados rápidos e eficazes (ex: aumento de wishlist, visibilidade, etc).
+2. **Resultados Reais**: Demonstração dos resultados obtidos por alunos anteriores, com estatísticas impressionantes de aumento de wishlist.
+3. **Histórias de Sucesso**: Depoimentos de estudantes que tiveram sucesso com o curso, como Ralph Barbagallo e Julian Beiboer, reforçando a eficácia do curso.
+4. **O Que Você Vai Aprender**: Listagem dos módulos e tópicos abordados no curso, como otimização da página de wishlist, estratégias de marketing com influenciadores e domínio dos algoritmos do Steam.
+5. **CTA**: Um botão claro e visível incentivando os visitantes a se inscreverem no curso, com uma garantia de devolução de dinheiro de 30 dias.
+6. **Rodapé**: Informações sobre direitos autorais e referências adicionais.
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🏆 Objetivo desta Landing Page
 
-**Use your preferred IDE**
+O principal objetivo dessa landing page é **ensinar como criar uma página de captura eficaz**, utilizando como exemplo a *Pro Game Marketing Steam Marketing Masterclass*. O foco não está apenas em promover o curso, mas em mostrar a estrutura de uma landing page bem-sucedida que pode ser aplicada a diversos tipos de produtos ou serviços, especialmente para o nicho de jogos indie.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+Através desta página, você aprenderá:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Como **escrever títulos e subtítulos** impactantes que atraem a atenção do visitante.
+- A importância de usar **provas sociais** (depoimentos e casos de sucesso) para aumentar a credibilidade.
+- Como **estruturar sua página de forma que maximize as conversões**.
+- Exemplos práticos de **CTAs** e como guiá-los de forma intuitiva para aumentar a taxa de conversão.
 
-Follow these steps:
+## 🛠️ Como Usar Este Repositório
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Este repositório foi desenvolvido utilizando **Vite.js**, uma ferramenta moderna para desenvolvimento front-end, que torna o processo de construção e desenvolvimento mais rápido e eficiente.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### 📋 Para rodar o projeto localmente:
 
-# Step 3: Install the necessary dependencies.
-npm i
+1. Clone este repositório no seu computador:
+    ```bash
+    git clone https://github.com/GabreuSenra/wishlist-conqueror.git
+    ```
+2. Acesse o diretório do projeto:
+    ```bash
+    cd wishlist-conqueror
+    ```
+3. Instale as dependências:
+    ```bash
+    npm i
+    ```
+4. Rode o servidor de desenvolvimento:
+    ```bash
+    npm run dev
+    ```
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+Agora, abra seu navegador e acesse `http://localhost:8080` para ver a landing page em funcionamento!
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
 
-**Use GitHub Codespaces**
+## 💡 Dicas e Melhorias
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Aqui estão algumas sugestões de como você pode adaptar essa landing page para outros produtos ou serviços:
 
-## What technologies are used for this project?
+- **Alterar o texto**: Substitua os exemplos do Pro Game Marketing por informações sobre o seu próprio produto.
+- **Ajuste o design**: Modifique o CSS para alinhar com sua identidade visual ou estilo de marca.
+- **Customize os CTAs**: Altere os botões para refletir a ação desejada para seu público.
 
-This project is built with:
+## 📖 Aprenda Mais Sobre Landing Pages
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+Se você está interessado em aprender mais sobre como criar landing pages de sucesso, confira alguns dos recursos abaixo:
 
-## How can I deploy this project?
+- Artigos sobre **copywriting** e **design de páginas de vendas**.
+- Exemplos de **testes A/B** para aumentar a taxa de conversão.
+- Como utilizar **ferramentas de análise** (como o Google Analytics) para entender o comportamento do usuário e otimizar sua landing page.
 
-Simply open [Lovable](https://lovable.dev/projects/bf480ba0-9d96-4cdc-945a-7816eb8c1857) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+### 🎓 AULA MINISTRADA POR: Gabriel Senra
 
-Yes, you can!
+Esta aula sobre como construir uma landing page de alta conversão foi **ministrada por Gabriel Senra**, especialista em marketing digital e desenvolvimento de jogos, em um evento promovido pela Universidade Federal de Juiz de Fora. O objetivo é fornecer não apenas um exemplo prático, mas também compartilhar estratégias comprovadas que podem ser aplicadas a qualquer tipo de produto ou serviço. 
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+---

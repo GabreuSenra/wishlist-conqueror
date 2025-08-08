@@ -12,9 +12,8 @@ const Index = () => {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Zap className="h-8 w-8 text-primary" />
-              <span className="text-xl font-bold">WishlistConqueror</span>
+              <span className="text-xl font-bold">Pro Game Marketing </span>
             </div>
-            <Button variant="outline">Login</Button>
           </div>
         </div>
       </header>
@@ -25,19 +24,18 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center relative">
           <Badge className="mb-6 animate-float">Steam Marketing Masterclass</Badge>
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-hero bg-clip-text text-transparent">
-            How to Market a Game
+            Wishlist & Visibility
           </h1>
+          <h2 className="text-5xl md:text-5xl mb-6 bg-gradient-hero bg-clip-text text-transparent">
+            Masterclass
+          </h2>
           <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-3xl mx-auto">
             Master Steam marketing, skyrocket your wishlists, and turn your indie game into a success story
           </p>
           <div className="flex flex-col md:flex-row gap-4 justify-center">
-            <Button variant="hero" size="lg" className="text-xl px-8 py-6">
+            <Button onClick={() => window.location.href = "https://checkout.teachable.com/secure/822864/checkout/order_p4cn64x5"} variant="hero" size="lg" className="text-xl px-8 py-6">
               Get Instant Access
               <ChevronRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button variant="outline" size="lg" className="text-xl px-8 py-6">
-              <PlayCircle className="mr-2 h-5 w-5" />
-              Watch Preview
             </Button>
           </div>
         </div>
@@ -227,7 +225,7 @@ const Index = () => {
             Join hundreds of successful indie developers who've transformed their Steam marketing 
             and achieved remarkable results.
           </p>
-          <Button variant="cta" size="lg" className="bg-white text-primary hover:bg-white/90">
+          <Button onClick={() => window.location.href = "https://checkout.teachable.com/secure/822864/checkout/order_p4cn64x5"} variant="cta" size="lg" className="bg-white text-primary hover:bg-white/90">
             Get Instant Access Now
             <ChevronRight className="ml-2 h-6 w-6" />
           </Button>
@@ -240,10 +238,10 @@ const Index = () => {
         <div className="container mx-auto px-4 text-center">
           <div className="flex items-center justify-center space-x-2 mb-4">
             <Zap className="h-6 w-6 text-primary" />
-            <span className="text-lg font-bold">WishlistConqueror</span>
+            <span className="text-lg font-bold">Pro Game Marketing</span>
           </div>
           <p className="text-muted-foreground">
-            © 2024 WishlistConqueror. All rights reserved.
+            © 2024 Pro Game Marketing. All rights reserved.
           </p>
         </div>
       </footer>
